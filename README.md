@@ -1,6 +1,6 @@
 # Day 4 – React Theme Switcher using Context API
 
-This is part of my 150-day developer preparation journey toward becoming a frontend/backend specialist and landing a ₹7+ LPA role. Today’s focus was on **React component architecture, props drilling issues**, and the **Context API for clean global state management**.
+Part of my 150-day prep journey where I build and learn daily — today was React fundamentals.
 
 ## ✅ What I Practiced:
 
@@ -21,7 +21,7 @@ This is part of my 150-day developer preparation journey toward becoming a front
 
 - React.js (Functional Components)
 - Context API
-- Plain CSS (Tailwind setup planned for later)
+- Tailwind CSS
 
 ## 🌱 Key Learnings:
 
